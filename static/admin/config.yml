@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: AngelRodro/myBlog
+  repo: AngelRodro/gatsby-blog
 
 media_folder: static/assets
 public_folder: assets
